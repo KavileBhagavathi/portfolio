@@ -1,189 +1,212 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Arjun Lenan Sandhya
+  label: ""
+  email: arjun.lenansandhya@gmail.com 
+  location: Erlangen, Germany
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: Master’s graduate in Computational Engineering at FAU Erlangen-Nürnberg, specializing in High-Performance
+          Computing, parallel and GPU-accelerated programming, and CFD simulation. Industry experience spans structural
+          dynamics data engineering and cloud-based data engineering, bridging numerical simulation with
+          high-performance software development. Proven track record in optimizing critical codebases, delivering scientific
+          analysis pipelines, and delivering fault-resistant software solutions.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: KavileBhaagavathi
     - network: LinkedIn
-      username: example
+      username: Arjun Lenan Sandhya
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Nördliche Stadtmauerstraße 20
+    city: Erlangen
+    region: Bayern
+    postalCode: 91054
+    countryCode: DE
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Friedrich-Alexander-Universität, Erlangen-Nüremberg
+        location: Erlangen, Germany
+        url: https://www.fau.de/
+        area: Computational Engineering
+        studyType: Master’s
+        start_date: 2023
+        end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
+        courses: "High Performance Computing, Parallel and GPU-accelerated Programming, CFD simulation"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Government Engineering College, Bartonhill
+        location: Thiruvananthapuram, India
+        area: Mechanical Engineering
+        studyType: Bachelor's
+        start_date: 2016
+        end_date: 2020
+        score: 8.8 
         highlights:
-          - Description 1.
-          - Description 2.
+          - Thesis - Design and Analysis of an Expandable Extra-Vehicular Activity Module
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Outlier AI
+        position: Tasker
+        location: Remote
+        start_date: Jan 2025
+        end_date: Aug 2025
+        #summary: ""
         highlights:
-          - Relativity
-          - Description 2.
+          - Designed adversarial prompts and ground-truth responses to stress-test advanced AI reasoning models across Python and C++ domains, covering low-level code behavior and physics simulations.
+          - Engineered failure cases for numerical and logic models, contributing to measurable improvements in model robustness across mathematical reasoning tasks.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Rocket Factory Augsburg
+        position: Test Vehicle Data Engineering Intern
+        location: Augsburg, Germany
+        start_date: Aug 2024 
+        end_date: Oct 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Refactored core mechanical analysis software, reducing runtime and memory footprint for the structural
+            engineering team; improved long-term code maintainability.
+          - Built Python-based scientific analysis pipelines (FFT, signal processing) using high-performance libraries
+            (NumPy, SciPy), delivering automated reports for senior management.
+          - Optimized data processing pipelines for test vehicle telemetry, improving throughput and reliability of
+            engineering data workflows.
+      
+      - company: Sentient Scripts Private Limited
+        position: Junior Data Scientist
+        location: Thiruvananthapuram, India
+        start_date: Jun 2021
+        end_date: Feb 2023
+        highlights: 
+          - Contributed to several successful cloud-based Big Data projects on AWS and Azure, working with scalable and distributed
+            computing architectures. Experience working with both SQL & No-SQL databases.
+          - Implemented and maintained CI/CD pipelines (Azure DevOps, GitLab), improving deployment reliability in a
+            production environment.
+          - Coordinated technical team execution and sprint planning via JIRA, supporting on-time delivery of data
+            engineering milestones.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    Achievements:
+      - title: Competition on Sustainable Agriculture (CompSA)
+        date: 2026
+        location: Budapest, Hungary
+        awarder: evosoft Hungary & BEST Hungary
+        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        summary: Led a three-member team to 2nd Place in CompSA 2026 hackathon. Designed a framework and gamified app for flash flood prevention/prediction for the village of Pilisszántó.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - title: SONY x SIEMENS Realize Live 
+        date: 2025
+        location: Amsterdam, Netherlands
+        summary: Led the FAU university team in the international Student Design Hack competition. Developed a product design for an immersive entertainment system.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - title: SIEMENS x BEST Engineering Design Competition 
+        date: 2024
+        location: Nürnberg, Germany
+        awareder: SIEMENS, BEST Erlangen
+        summary: ed a four-member team to 3rd Place in Engineering Design using SolidEdge. Project featured in the SIEMENS newsletter and incorporated into the SolidEdge global outreach program.
+    
+      - title: Best Student Project Award 
+        date: 2021
+        awarder: Society of Aerospace Manufacturing Engineers
+        location: Thiruvananthapuram, India
+        summary: Part of the team that developed an award-winning bamboo-based chassis and body for an ultra-mileage challenge vehicle.
 
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: NASA SpaceApps Challenge
+        date: 2020
+        location: Remote
+        summary: Conceptualized a novel In-Space Docking and Assembly System. Submission shortlisted for the Global Finalist selection list.
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: HPC & Parallel Computing
+        # level: Master
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "MPI, OpenMP, CUDA (C++ & Python), ITAC, LIKWID , NVIDIA Nsight & Nsight Compute"
+
+      - name: Computational Languages
+        # level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "C/C++, Python, SQL, Bash"
+
+      - name: Computational Fluid Dynamics & Simulation
+        # level: Master
+        icon: fa-solid fa-hashtag
+        keywords: "StarCCM+, OpenFOAM, OpenLB"
+      
+      - name: 3D Modeling 
+        icon: fa-solid fa-hashtag
+        keywords: "CATIAV5, PTC Creo, Siemens NX"
+
+      - name: DevOps & Version Control 
+        icon: fa-solid fa-hashtag
+        keywords: "Git, Github, GitLab, Azure DevOps"
+
+      - name: Cloud Platforms
+        icon: fa-solid fa-hashtag
+        keywords: "AWS, Microsoft Azure, Databricks"
 
     Languages:
-      - name: German
+      - name: Malayalam
         summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: "Fluent (C1)"
+      - name: German
+        summary: "Beginner (A2)"
 
     Interests:
-      - name: Physics
+      - name: Computer Science 
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "High Performance Computing, Parallel and GPU-accelerated Programming, Scientific Software development, Computational Fluid Dynamics"
+      - name: Mechanical Engineering
+        icon: fa-solid fa-tag
+        keywords: "Thermodynamics, Fluid Mechanics, Propulsion"
+      - name: Mathematics
+        icon: fa-solid fa-tag
+        keywords: "Differential Equations, Numerical Analysis, Numerical Integration"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Fundamentals of Accelerated Computing with CUDA Python
+        date: 2025-08-01
+        issuer: NVIDIA / NHR@FAU
+        icon: fa-solid fa-code
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Fundamentals of Accelerated Computing with CUDA C/C++
+        date: 2025-08-01
+        issuer: NHR@FAU
+        icon: fa-solid fa-code
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Modern C++ Software Design
+        date: 2025-10-01
+        issuer: NHR@FAU
+        icon: fa-solid fa-code
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Choosing GPU Programming Approaches
+        date: 2026-03-01
+        issuer: NHR@FAU
+        icon: fa-solid fa-code
+
+    Academic Projects:
+      - name: Parallelization and Optimization of a Heat Equation Solver
+        summary: Attempted as part of Programming for Supercomputers course (Summer 2025) at FAU, with Salman Salim
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Parallelized a finite-difference heat equation solver using OpenMP, achieving significant speedup on multicore
+            CPU architectures.
+          - Optimized memory access patterns and applied compiler flags with SIMD (AVX) vectorization to maximize cache
+            efficiency and throughput.
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: CPU & GPU benchmarking of a Molecular Dynamics Solver
+        summary: Attempted as part of the Multicore Simulations seminar (Summer 2026) at FAU
+        highlights:
+          - Conducted a comparative performance study of an MD solver across CPU (AMD EPYC) and GPU (NVIDIA A10/A100/H100)
+            environments, profiling compute vs. memory-bound bottlenecks.
+          - Used LIKWID, NVIDIA Nsight, and Nsight Compute to analyze communication overhead, cache utilization, and
+            kernel efficiency.
+          - Evaluated energy efficiency and throughput metrics to recommend optimal hardware configurations for
+            large-scale physical simulations.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.

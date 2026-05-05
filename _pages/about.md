@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: About me. 
 
 profile:
   align: right
@@ -27,8 +27,11 @@ latest_posts:
 ---
 
 Hello! I'm Arjun, a curious and passionate engineer/engineering student who is presently enrolled at the Friedrich-Alexander-Universität, Erlangen in Germany where I am currently pursuing my Master's Degree in Computational Engineering. 
+
 Former Junior Data Scientist @ [Sentient Scripts](https://www.linkedin.com/company/sentientscripts)
+
 Mechanical Engineering Under-graduate from [Government Engineering College, Bartonhill](https://www.gecbh.ac.in/), Thiruvananthapuram (2016-2020) 
+
 Academic Interests: High Performance Computing, GPU Programming, Scientific Programming, Computational Fluid Dynamics
 
 <!-- your comment 
@@ -37,4 +40,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
-Connect with me on [LinkedId](www.linkedin.com/in/arjun-ls) 
+Connect with me on [LinkedIn](www.linkedin.com/in/arjun-ls) or send me a mail at [arjun.lenansandhya@gmail.com](mailto:arjun.lenansandhya@gmail.com) 
