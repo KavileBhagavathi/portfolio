@@ -28,6 +28,10 @@ latest_posts:
 
 Hello! I'm Arjun, a curious and passionate engineer/engineering student who is presently enrolled at the Friedrich-Alexander-Universität, Erlangen in Germany where I am currently pursuing my Master's Degree in Computational Engineering. 
 
+Occassional Tasker @ [Outlier AI](outlier.ai)
+
+Former Intern @ [Rocket Factory Augsburg](rfa.space)
+
 Former Junior Data Scientist @ [Sentient Scripts](https://www.linkedin.com/company/sentientscripts)
 
 Mechanical Engineering Under-graduate from [Government Engineering College, Bartonhill](https://www.gecbh.ac.in/), Thiruvananthapuram (2016-2020) 
