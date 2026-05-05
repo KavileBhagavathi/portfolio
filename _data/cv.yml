@@ -12,7 +12,7 @@ cv:
 
   social_networks:
     - network: GitHub
-      username: KavileBhaagavathi
+      username: KavileBhagavathi
     - network: LinkedIn
       username: Arjun Lenan Sandhya
 
@@ -39,7 +39,7 @@ cv:
         #   - Description 2.
 
       - institution: Government Engineering College, Bartonhill
-        location: Thiruvananthapuram, India
+        location: Kerala, India
         area: Mechanical Engineering
         studyType: Bachelor's
         start_date: 2016
@@ -74,7 +74,7 @@ cv:
       
       - company: Sentient Scripts Private Limited
         position: Junior Data Scientist
-        location: Thiruvananthapuram, India
+        location: Kerala, India
         start_date: Jun 2021
         end_date: Feb 2023
         highlights: 
@@ -183,7 +183,7 @@ cv:
         issuer: NHR@FAU
         icon: fa-solid fa-code
 
-    Academic Projects:
+    Projects:
       - name: Parallelization and Optimization of a Heat Equation Solver
         summary: Attempted as part of Programming for Supercomputers course (Summer 2025) at FAU, with Salman Salim
         highlights:
