@@ -28,13 +28,16 @@ latest_posts:
 
 Hello! I'm Arjun, a curious and passionate engineer/engineering student who is presently enrolled at the Friedrich-Alexander-Universität, Erlangen in Germany where I am currently pursuing my Master's Degree in Computational Engineering. 
 
+Master of Science in Computational Engineering (HPC + CFD) from [Freidrich-Alexander-Universität, Erlangen-Nürnberg](https://www.fau.de/)
+(2023-2026) 
+
+Mechanical Engineering Under-graduate from [Government Engineering College, Bartonhill](https://www.gecbh.ac.in/), Thiruvananthapuram (2016-2020)
+
 Occassional Tasker @ [Outlier AI](outlier.ai)
 
 Former Intern @ [Rocket Factory Augsburg](rfa.space)
 
 Former Junior Data Scientist @ [Sentient Scripts](https://www.linkedin.com/company/sentientscripts)
-
-Mechanical Engineering Under-graduate from [Government Engineering College, Bartonhill](https://www.gecbh.ac.in/), Thiruvananthapuram (2016-2020) 
 
 Academic Interests: High Performance Computing, GPU Programming, Scientific Programming, Computational Fluid Dynamics
 
