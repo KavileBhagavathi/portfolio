@@ -201,6 +201,13 @@ cv:
             kernel efficiency.
           - Evaluated energy efficiency and throughput metrics to recommend optimal hardware configurations for
             large-scale physical simulations.
+      
+      - name: Particle Dynamics Solver
+        summary: Writing a CUDA accelerated particle dynamics solver as part of High-End Simulations course at (Summer 2026) at FAU
+        highlights:
+          - Implemented Lennard-Jones potential for particle interactions, optimizing performance and accuracy.
+          - Utilized parallelization and GPU acceleration to handle large-scale simulations efficiently.
+          - Currently working on periodic boundary conditions and energy conservation.
 
     # References:
     #   - name: Professor John Doe

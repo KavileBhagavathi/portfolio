@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I'm Arjun, a curious and passionate engineer/engineering student who is presently enrolled at the Friedrich-Alexander-Universität, Erlangen in Germany where I am currently pursuing my Master's Degree in Computational Engineering. 
+Hello! I'm Arjun, a curious and passionate engineer and lifelong student with a strong interest in Computing, Fluid Dynamics and Space Science. I recently graduated from my Master's program and is presently on the lookout for opportunities to better human life.  
 
 Master of Science in Computational Engineering (HPC + CFD) from [Freidrich-Alexander-Universität, Erlangen-Nürnberg](https://www.fau.de/)
 (2023-2026) 
