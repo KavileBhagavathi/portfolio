@@ -407,11 +407,11 @@ ninja.data = [{
             window.location.href = "/portfolio/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-the-stranger",
+          title: 'The Stranger',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/portfolio/books/the_godfather/";
+              window.location.href = "/portfolio/books/the_stranger/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
